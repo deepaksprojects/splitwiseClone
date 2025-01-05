@@ -39,3 +39,4 @@ app-example
 # Files
 android/
 ios/
+/google-services.json
