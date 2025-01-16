@@ -1,12 +1,12 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-const Login = () => {
+const Activity = () => {
   return (
     <View>
-      <Text>Login</Text>
+      <Text>Activity</Text>
     </View>
   );
 };
 
-export default Login;
+export default Activity;
